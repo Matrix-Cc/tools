@@ -4,6 +4,8 @@ git commit -m"GUIDE"
 git push
 git status       可以查看状态
 
+git pull       取回更新
+
 https://www.runoob.com/w3cnote/git-five-minutes-tutorial.html
 菜鸟教程
 
