@@ -1,0 +1,24 @@
+
+
+https://www.runoob.com/w3cnote/git-five-minutes-tutorial.html
+菜鸟教程
+
+https://blog.csdn.net/yuruixin_china/article/details/79061999
+使用git进行项目版本管理
+https://git-scm.com/book/zh/v2
+git指令
+
+
+https://blog.csdn.net/u010839779/article/details/81177429
+
+下面先看下demo如下演示：
+
+     我在版本库testgit目录下新建一个记事本文件 readme.txt 内容如下：11111111
+
+     第一步：使用命令 git add readme.txt添加到暂存区里面去。如下：
+
+    
+
+   如果和上面一样，没有任何提示，说明已经添加成功了。
+
+   第二步：用命令 git commit告诉Git，把文件提交到仓库
