@@ -1,10 +1,16 @@
 git clone https://github.com/.....
-git add Guide.txt
-git commit -m"GUIDE"
-git push
+git add Guide.txt    (or git add .)
+git commit -m"GUIDE" (由于没有注释陷入，，则：wq)
+git push origin master
 git status       可以查看状态
 
 git pull       取回更新
+
+git checkout -b cbbranch
+创建一个名叫 cbbranch 的分支，并且切换到 cbbranch
+
+branch操作
+https://blog.csdn.net/a909301740/article/details/81808117
 
 https://www.runoob.com/w3cnote/git-five-minutes-tutorial.html
 菜鸟教程
