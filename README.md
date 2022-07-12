@@ -11,3 +11,6 @@
 
 <br>3、Guide.txt
 <br>关于gitBush同步提交github
+
+<br>4、exifModify.py
+<br>照片exif信息尝试通过python进行修改
