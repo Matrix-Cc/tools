@@ -1,6 +1,6 @@
-# sophomore
+# 小工具（记一下）
 
-大二相关
+
 ========
 <br>1、testMatch.py
 <br>python比较学生名单与签到名单查缺勤（Excel）
